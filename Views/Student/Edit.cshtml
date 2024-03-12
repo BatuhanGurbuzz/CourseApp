@@ -1,0 +1,23 @@
+@model Student
+<h2>Öğrenci Güncelleme</h2>
+<hr>
+<form asp-controller = "Student" asp-action="Edit" method="post">
+    <input type="hidden" asp-for="studentID">
+    <div class="mb-3">
+        <label class="form-label" asp-for="studentName">Öğrenci Adı</label>
+        <input asp-for="studentName" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="studentSurname">Öğrenci Soyadı</label>
+        <input asp-for="studentSurname" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="studentMail">Öğrenci E posta Adresi</label>
+        <input asp-for="studentMail" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="studentPhone">Öğrenci Telefon Numarası</label>
+        <input asp-for="studentPhone" class="form-control">
+    </div>
+    <button class="btn btn-success" type="submit">Kaydet</button>
+</form>

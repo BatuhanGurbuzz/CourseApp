@@ -18,6 +18,22 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\batuh\OneDrive\Masaüstü\Yazilim\Web Projeleri\Asp.Net Dersleri\CourseApp
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/Course/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/Course/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/Course/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/Course/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291cnNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -32,6 +48,22 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/Student/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/Student/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/Student/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/Student/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/batuh/OneDrive/Masaüstü/Yazilim/Web Projeleri/Asp.Net Dersleri/CourseApp/Views/_ViewImports.cshtml]
